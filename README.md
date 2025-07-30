@@ -28,10 +28,16 @@ This Power BI report provides a comprehensive view of sales performance, margin 
 - Insight into customer contribution to overall margin.
 
 ## Use Cases
-Retail Managers: Track store performance and take corrective action.
+- Retail Managers: Track store performance and take corrective action.
 
-Marketing Teams: Identify customer trends and target high-value segments.
+- Marketing Teams: Identify customer trends and target high-value segments.
 
-Finance Teams: Analyze margin trends and optimize pricing strategies.
+- Finance Teams: Analyze margin trends and optimize pricing strategies.
 
-Executives: Gain a high-level overview of business health and growth opportunities.
+- Executives: Gain a high-level overview of business health and growth opportunities.
+
+## Next Steps
+- Predictive model for future sales and margin in python, helps with resource allocation planning within business
+
+- Create year on year sales trend analysis, 13 week rolling trend analysis and 4 week rolling trend analysis
+  to identify stores that are in need of attention and assess how big the issue is
